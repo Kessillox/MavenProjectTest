@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èä†ù8Ä˜ªÿ1J$a55289f3-d93e-4b0e-9ab9-40e57d807071
+E
+java:S1128"#Remove this unused import 'lombok'.(â—‡‘şÿÿÿÿ8“½šªÿ1
+F
+java:S1068")Remove this unused "color" private field.(È„…¦8“½šªÿ1
+F
+java:S1068")Remove this unused "marca" private field.(š’Ôæ8“½šªÿ1
